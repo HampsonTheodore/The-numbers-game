@@ -13,7 +13,7 @@ n = random.randint(1, 20)
 # To play this game,the user have to guess and input a date. How do i prompt the user to input a data?
 #The function input has an optional parameter, which is the prompt string.
 
-# What do I want the prayer to do? Guess a from 1 - 20.
+# What do I want the player to do? Guess a from 1 - 20.
 guess = int(input("Enter an integer from 1 to 20: "))
 
 while n != "guess":
