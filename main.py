@@ -1,3 +1,5 @@
+#This is the guessing game.
+
 # I am creating the guessing game in python
 
 #The program needs to have a range from 1 - 20 and also the computer needs to do this randomly. 
